@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Ewo7NUlFbUXlcdaCAZP4EjmeLt+aBt7AO6AZBpSzUVcLeOm5gtDJgilpiExhUoG8i0Z2QhJjomNKELqYFQVXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1DAW_2223_19\\Documents\\JoseRamSan_ExUD4\\unit-testing-using-nunit\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1DAW_2223_19\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1DAW_2223_19\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
